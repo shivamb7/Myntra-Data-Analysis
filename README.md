@@ -43,3 +43,13 @@ SELECT `Sub-category` FROM product
 WHERE Ratings = 5
 GROUP BY `Sub-category`
 ```
+### 2.Combined Analysis
+- Who are the top 10 spending customers?
+  ```sql
+  select `c`.`Customer ID`,SUM(`o`.`Original Price`) as Total_spending from customer as c
+  INNER JOIN orders as o
+  ON `c`.`Customer ID` = `o`.`Customer ID`
+  GROUP BY `c`.`Customer ID`
+  ORDER BY SUM(`o`.`Original Price`) DESC
+  LIMIT 10
+  ```
