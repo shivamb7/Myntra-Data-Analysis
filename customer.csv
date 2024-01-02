@@ -1,0 +1,101 @@
+Customer ID,Customer Age,City,State,Age Segment
+C001,30,Mumbai,Maharashtra,Adult
+C002,35,Mumbai,Maharashtra,Adult
+C003,36,Mumbai,Maharashtra,Adult
+C004,40,Pune,Maharashtra,Adult
+C005,25,Pune,Maharashtra,Adult
+C006,16,Pune,Maharashtra,Teenager
+C007,23,Pune,Maharashtra,Adult
+C008,22,Pune,Maharashtra,Adult
+C009,17,Hyderabad,Telangana,Teenager
+C010,19,Hyderabad,Telangana,Adult
+C011,18,Hyderabad,Telangana,Adult
+C012,20,Hyderabad,Telangana,Adult
+C013,22,Raipur,Chhatisgarh,Adult
+C014,25,Raipur,Chhatisgarh,Adult
+C015,27,Ahmedabad,Gujarat,Adult
+C016,29,Ahmedabad,Gujarat,Adult
+C017,23,Ahmedabad,Gujarat,Adult
+C018,25,Ahmedabad,Gujarat,Adult
+C019,24,Ahmedabad,Gujarat,Adult
+C020,15,Ahmedabad,Gujarat,Teenager
+C021,19,Vadodara,Gujarat,Adult
+C022,19,Vadodara,Gujarat,Adult
+C023,19,Vadodara,Gujarat,Adult
+C024,22,Vadodara,Gujarat,Adult
+C025,22,Vadodara,Gujarat,Adult
+C026,22,Surat,Gujarat,Adult
+C027,22,Surat,Gujarat,Adult
+C028,29,Surat,Gujarat,Adult
+C029,29,Surat,Gujarat,Adult
+C030,29,Bengaluru,Karnataka,Adult
+C031,29,Bengaluru,Karnataka,Adult
+C032,41,Bengaluru,Karnataka,Adult
+C033,42,Bengaluru,Karnataka,Adult
+C034,43,Bengaluru,Karnataka,Adult
+C035,44,Bengaluru,Karnataka,Adult
+C036,45,Bengaluru,Karnataka,Adult
+C037,35,Bengaluru,Karnataka,Adult
+C038,36,Patna,Bihar,Adult
+C039,37,Patna,Bihar,Adult
+C040,26,Patna,Bihar,Adult
+C041,27,Patna,Bihar,Adult
+C042,28,Darbhanga,Bihar,Adult
+C043,29,Darbhanga,Bihar,Adult
+C044,30,Darbhanga,Bihar,Adult
+C045,31,Nalanda,Bihar,Adult
+C046,32,Nalanda,Bihar,Adult
+C047,33,Nalanda,Bihar,Adult
+C048,44,Gaya,Bihar,Adult
+C049,45,Gaya,Bihar,Adult
+C050,46,Bhopal,Madhya Pradesh,Adult
+C051,47,Bhopal,Madhya Pradesh,Adult
+C052,48,Bhopal,Madhya Pradesh,Adult
+C053,49,Bhopal,Madhya Pradesh,Adult
+C054,17,Sagar,Madhya Pradesh,Teenager
+C055,18,Sagar,Madhya Pradesh,Adult
+C056,19,Sagar,Madhya Pradesh,Adult
+C057,20,Sagar,Madhya Pradesh,Adult
+C058,21,Indore,Madhya Pradesh,Adult
+C059,22,Indore,Madhya Pradesh,Adult
+C060,16,Kanpur,Uttar Pradesh,Teenager
+C061,17,Kanpur,Uttar Pradesh,Teenager
+C062,18,Kanpur,Uttar Pradesh,Adult
+C063,19,Kanpur,Uttar Pradesh,Adult
+C064,20,Aligarh,Uttar Pradesh,Adult
+C065,21,Aligarh,Uttar Pradesh,Adult
+C066,22,Aligarh,Uttar Pradesh,Adult
+C067,23,Aligarh,Uttar Pradesh,Adult
+C068,18,Prayagraj,Uttar Pradesh,Adult
+C069,18,Prayagraj,Uttar Pradesh,Adult
+C070,18,Prayagraj,Uttar Pradesh,Adult
+C071,18,Prayagraj,Uttar Pradesh,Adult
+C072,18,Prayagraj,Uttar Pradesh,Adult
+C073,18,Prayagraj,Uttar Pradesh,Adult
+C074,23,Jalandhar,Punjab,Adult
+C075,24,Jalandhar,Punjab,Adult
+C076,25,Jalandhar,Punjab,Adult
+C077,26,Jalandhar,Punjab,Adult
+C078,27,Amritsar,Punjab,Adult
+C079,24,Amritsar,Punjab,Adult
+C080,24,Amritsar,Punjab,Adult
+C081,24,Amritsar,Punjab,Adult
+C082,24,Amritsar,Punjab,Adult
+C083,24,Patiala,Punjab,Adult
+C084,24,Patiala,Punjab,Adult
+C085,24,Patiala,Punjab,Adult
+C086,24,Patiala,Punjab,Adult
+C087,24,Patiala,Punjab,Adult
+C088,22,Patiala,Punjab,Adult
+C089,23,Jaipur,Rajasthan,Adult
+C090,24,Jaipur,Rajasthan,Adult
+C091,25,Jaipur,Rajasthan,Adult
+C092,26,Jaipur,Rajasthan,Adult
+C093,27,Jaipur,Rajasthan,Adult
+C094,34,Jaipur,Rajasthan,Adult
+C095,35,Jodhpur,Rajasthan,Adult
+C096,36,Jodhpur,Rajasthan,Adult
+C097,37,Jodhpur,Rajasthan,Adult
+C098,38,Udaipur,Rajasthan,Adult
+C099,39,Udaipur,Rajasthan,Adult
+C100,40,Udaipur,Rajasthan,Adult
