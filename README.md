@@ -53,3 +53,13 @@ GROUP BY `Sub-category`
   ORDER BY SUM(`o`.`Original Price`) DESC
   LIMIT 10
   ```
+- Top 10 Customer with highest order placed
+  ```sql
+  select `c`.`Customer ID`,COUNT(`o`.`Order ID`) as Total_spending from customer as c
+  INNER JOIN orders as o
+  ON `c`.`Customer ID` = `o`.`Customer ID`
+  GROUP BY `c`.`Customer ID`
+  ORDER BY COUNT(`o`.`Order ID`) DESC
+  LIMIT 10
+  ```
+  
